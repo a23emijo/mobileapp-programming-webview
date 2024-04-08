@@ -19,5 +19,5 @@ myWebSetting = myWebView.getSettings();
 myWebSetting.setJavaScriptEnabled(true);
 ```
 
-![](Screenshot_guthib.jpg)
+![](Screenshot_Guthib.jpg)
 ![](Screenshot_McDonalds.jpg)
